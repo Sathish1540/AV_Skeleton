@@ -1,0 +1,5 @@
+/*
+this contains the logic to send an email to given recipients with screen shot OR
+if execution on accessible CI or server the link details with legacy reports
+
+ */

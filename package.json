@@ -1,0 +1,8 @@
+{
+  "name": "AV_Skeleton",
+  "version": "1.0.0",
+  "dependencies": {
+    "mocha":"^5.2.0",
+    "chai": "^4.1.2"
+  }
+}
